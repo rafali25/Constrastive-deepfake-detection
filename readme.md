@@ -76,12 +76,17 @@ The proposed method **achieves lower Equal Error Rate (EER)** and outperforms pr
 ## 📜 Citation
 If you find this work useful, please cite:
 ```bibtex
-@inproceedings{ali2025fooling,
-  title={Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection},
-  author={Rafiq Ali, Gautam Siddharth Kashyap, Zohaib Hasan Siddiqui, Mohammad Anas Azeez, Shantanu Kumar, Navin Kamuni, Jiechao Gao},
-  booktitle={ICASSP},
-  year={2025}
-}
+@INPROCEEDINGS{10888175,
+  author={Kashyap, Gautam Siddharth and Siddiqui, Zohaib Hasan and Azeez, Mohammad Anas and Ali, Rafiq and Kumar, Shantanu and Kamuni, Navin and Gao, Jiechao},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Deepfakes;Contrastive learning;Signal processing;Phonetics;Generative adversarial networks;Feature extraction;Data augmentation;Robustness;Data models;Speech processing;Audio Deepfake Detection;Generative Adversarial Networks;Pre-trained Models;Deep Learning;Machine Learning},
+  doi={10.1109/ICASSP49660.2025.10888175}}
+
 ```
 
 ---
